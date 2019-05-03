@@ -2,8 +2,9 @@
 layout: index-layout
 subject: My Email Templates
 ---
-<container>
-  <row>
+<container class="email-content">
+  <!-- header -->
+  <row class="email-content-header">
     <columns>
       <center>
         <img
@@ -12,9 +13,9 @@ subject: My Email Templates
       </center>
     </columns>
   </row>
-  <row>
+  <!-- body -->
+  <row class="email-content-body">
     <columns>
-
       <row>
         <columns>
           <center>
@@ -37,12 +38,83 @@ subject: My Email Templates
         </columns>
       </row>
       <row>
-          <columns class="recommended-logos">
-            <center>
-              <div>Recommended Logos</div>
-            </center>
-          </columns>
-        </row>
+        <columns class="recommended-logos">
+          <center>
+            <div>Recommended Logos</div>
+          </center>
+        </columns>
+      </row>
+
+      <row>
+        <columns>
+          <row>
+            <columns small="4" large="4">
+
+              <img
+                src="https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest1.png"
+                alt="image of clever meme that made me chuckle">
+              <button href="#">Edit Now</button>
+
+            </columns>
+            <columns small="4" large="4">
+              <img
+                src="https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest2.png"
+                alt="image of clever meme that made me chuckle">
+              <button href="#">Edit Now</button>
+            </columns>
+            <columns small="4" large="4">
+              <img
+                src="https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest3.png"
+                alt="image of clever meme that made me chuckle">
+              <button href="#">Edit Now</button>
+            </columns>
+          </row>
+          <row>
+            <columns small="4" large="4">
+
+              <img
+                src="https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest4.png"
+                alt="image of clever meme that made me chuckle">
+              <button href="#">Edit Now</button>
+
+            </columns>
+            <columns small="4" large="4">
+              <img
+                src="https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest5.png"
+                alt="image of clever meme that made me chuckle">
+              <button href="#">Edit Now</button>
+            </columns>
+            <columns small="4" large="4">
+              <img
+                src="https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest6.png"
+                alt="image of clever meme that made me chuckle">
+
+              <button href="#">Edit Now</button>
+            </columns>
+          </row>
+        </columns>
+      </row>
+
+    </columns>
+  </row>
+  <!-- footer -->
+  <row class="email-content-footer">
+    <columns>
+
+      <row>
+        <columns small="3" large="3">
+          <a href="">Logos</a>
+        </columns>
+        <columns small="3" large="3">
+          <a>Business Cards</a>
+        </columns>
+        <columns small="3" large="3">
+          <a>Promotional Products</a>
+        </columns>
+        <columns small="3" large="3">
+          <a>My Account</a>
+        </columns>
+      </row>
 
     </columns>
   </row>
