@@ -1,0 +1,23 @@
+{
+    "title":"My Free Logo Services",
+    "logos":[
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest1.png"
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest2.png"
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest3.png"
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest4.png"
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest5.png"
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/html-email-demo-projects/master/free-logo-services/src/assets/img/nearest-most-dearest6.png"
+        }
+    ]
+}
