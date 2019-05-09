@@ -16,9 +16,22 @@
         background: white;
         background-color: white;
     }
+}
 
-    .email-content-footer{
-        background: #999999;
-        background-color:#999999;
-    }
+.email-content-body{
+    margin-top: 10px;
+}
+
+.email-content-footer{
+    background: #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.email-content-header{
+    background: #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.footer-social-icon{
+    display: inline;
 }
