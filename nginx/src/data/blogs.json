@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/pub_resources/master/img/html-emails/nginx-news-letter/nginx-r18.png",
+            "title":"Announcing NGINX Plus R18",
+            "description":"NGINX Plus R18 introduces dynamic loading of SSL/TLS certificates, enhances our OpenID Connect reference implementation, and supports port ranges for virtual servers.",
+            "link":""
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/pub_resources/master/img/html-emails/nginx-news-letter/nginx-kubernete.png",
+            "title":"Testing the Performance of the NGINX Ingress Controller for Kubernetes",
+            "description":"This blog describes the performance you can achieve with the NGINX Ingress Controller for Kubernetes, in terms of three metrics: requests per second, SSL/TLS transactions per second, and throughput. ",
+            "link":""
+        },
+        {
+            "imgUrl":"https://raw.githubusercontent.com/folaulau/pub_resources/master/img/html-emails/nginx-news-letter/nginix-api.png",
+            "title":"Is Your API Management Solution Really Secure?",
+            "description":"Is your API management solution secure when vulnerabilities are found? The NGINX team builds patches into the NGINX Controller API Management Module as soon as they're available. ",
+            "link":""
+        }
+    ]
+}
