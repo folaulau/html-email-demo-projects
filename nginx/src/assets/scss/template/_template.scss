@@ -79,4 +79,30 @@ table.button.google table td {
 
 .footer-content-text{
   color:white;
+  font-size: small;
+  a{
+    font-size: small;
+  }
+}
+
+.upcoming-events{
+  a{
+    font-size: small;
+    font-weight: bold;
+  }
+  .event-address{
+    display: inline;
+    font-weight: bold;
+    font-size: small;
+  }
+  .event-desc{
+    display: inline;
+    font-size: x-small;
+    font-style: italic;
+  }
+}
+
+.footer-vertical-line{
+  border-left: 2px solid white;
+  height: 75px;
 }
